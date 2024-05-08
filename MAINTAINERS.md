@@ -14,3 +14,4 @@ This file lists the maintainers of the Koordinator project. The responsibilities
 | [Lijie Wang](mailto:j4ckstraw@foxmail.com)         | [j4ckstraw](https://github.com/j4ckstraw)     | Xiaomi               |
 | [Ming Liu](mailto:2876757716@qq.com)               | [lucming](https://github.com/lucming)         | Individual Developer |
 | [Tao Li](mailto:joseph.t.lee@outlook.com)          | [eahydra](https://github.com/eahydra)         | Individual Developer |
+| [Kang Zhang](mailto:kang.zhang@intel.com)          | [kangclzjc](https://github.com/kangclzjc)     | Intel                |
