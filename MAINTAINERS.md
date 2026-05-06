@@ -1,18 +1,22 @@
 # The Koordinator Maintainers
 
-This file lists the maintainers of the Koordinator project. The responsibilities of maintainers are listed in the [community membership](./community-membership.md) file.
+This table lists the maintainers of the Koordinator project. For a comprehensive definition of roles, expectations, and promotion criteria, please refer to the [Community Membership](./community-membership.md) guide.
+
+Beyond technical oversight, **Active** maintainers are responsible for the project's daily stewardship, including facilitating community meetings and managing the release lifecycle. **Advisory** maintainers provide high-level guidance and historical context but are not involved in daily operations.
 
 ## Project Maintainers
 
-| Name                                               | GitHub ID                                     | Affiliation          |
-|----------------------------------------------------|-----------------------------------------------|----------------------|
-| [Fansong Zeng](mailto:fansong.cfs@alibaba-inc.com) | [Fansong Zeng](https://github.com/hormes)     | Alibaba Cloud        |
-| [Siyu Wang](mailto:jiuzhu.wsy@alibaba-inc.com)     | [FillZpp](https://github.com/FillZpp)         | Alibaba Cloud        |
-| [Zuowei Zhang](mailto:zzw261520@alibaba-inc.com)   | [zwzhang0107](https://github.com/zwzhang0107) | Alibaba Cloud        |
-| [Jason Liu](mailto:jasonliu747@gmail.com)          | [jasonliu747](https://github.com/jasonliu747) | Alibaba Cloud        |
-| [Zehui Song](mailto:songzh215@163.com)             | [songzh215](https://github.com/songzh215)     | Xiaohongshu          |
-| [Lijie Wang](mailto:j4ckstraw@foxmail.com)         | [j4ckstraw](https://github.com/j4ckstraw)     | Xiaomi               |
-| [Ming Liu](mailto:2876757716@qq.com)               | [lucming](https://github.com/lucming)         | Individual Developer |
-| [Tao Li](mailto:joseph.t.lee@outlook.com)          | [eahydra](https://github.com/eahydra)         | Individual Developer |
-| [Kang Zhang](mailto:kang.zhang@intel.com)          | [kangclzjc](https://github.com/kangclzjc)     | Intel                |
-| [Ziqiu Zhu](mailto:zzqshu@126.com)                 | [zqzten](https://github.com/zqzten)           | Ant Group            |
+| Name         | GitHub ID                                     | Affiliation          | Term              | Activity Status |
+|--------------|-----------------------------------------------|----------------------|-------------------|-----------------|
+| Fansong Zeng | [Fansong Zeng](https://github.com/hormes)     | Alibaba Cloud        | 2023.07 - Present | Advisory        |
+| Zuowei Zhang | [zwzhang0107](https://github.com/zwzhang0107) | Alibaba Cloud        | 2023.07 - Present | Active          |
+| Siyu Wang    | [FillZpp](https://github.com/FillZpp)         | NVIDIA               | 2023.07 - Present | Advisory        |
+| Tao Li       | [eahydra](https://github.com/eahydra)         | NVIDIA               | 2023.07 - Present | Advisory        |
+| Jason Liu    | [jasonliu747](https://github.com/jasonliu747) | Individual Developer | 2023.07 - Present | Advisory        |
+| Ming Liu     | [lucming](https://github.com/lucming)         | Individual Developer | 2024.05 - Present | Advisory        |
+| Zehui Song   | [songzh215](https://github.com/songzh215)     | Xiaohongshu          | 2024.05 - Present | Advisory        |
+| Lijie Wang   | [j4ckstraw](https://github.com/j4ckstraw)     | Xiaomi               | 2024.05 - Present | Advisory        |
+| Kang Zhang   | [kangclzjc](https://github.com/kangclzjc)     | NVIDIA               | 2024.05 - Present | Advisory        |
+| Rougang Han  | [saintube](https://github.com/saintube)       | Alibaba Cloud        | 2026.02 - Present | Active          |
+| Jianyu Wang  | [ZiMengSheng](https://github.com/ZiMengSheng) | Alibaba Cloud        | 2026.02 - Present | Active          |
+| Ziqiu Zhu    | [zqzten](https://github.com/zqzten)           | Ant Group            | 2026.02 - Present | Active          |
